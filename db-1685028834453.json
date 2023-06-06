@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "practice first"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "practice mid"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "practice last"
+    },
+    {
+      "id": 4
+    }
+  ]
+}

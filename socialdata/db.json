@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "3rd jj",
+      "datetime": "June 04,2023 9:46:36 PM",
+      "body": "ooooo"
+    },
+    {
+      "id": 4,
+      "title": "finally kkk",
+      "datetime": "June 05,2023 7:10:26 PM",
+      "body": "happy"
+    },
+    {
+      "id": 5,
+      "title": "cc3rc k",
+      "datetime": "June 05,2023 8:07:14 PM",
+      "body": "3rc3r3rcr"
+    },
+    {
+      "id": 6,
+      "title": "lo",
+      "datetime": "June 05, 2023 8:07:01 PM",
+      "body": "kl"
+    }
+  ]
+}
